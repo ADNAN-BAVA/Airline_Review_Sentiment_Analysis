@@ -1,8 +1,6 @@
-![wc_neg](https://github.com/user-attachments/assets/54a84027-2996-4875-95bc-4af46f110daf)# ✈️ British Airways Customer Sentiment Analysis Based on Skytrax Reviews
+# ✈️ British Airways Customer Sentiment Analysis Based on Skytrax Reviews
  
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)  
-![License](https://img.shields.io/badge/license-MIT-green)  
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)  ![License](https://img.shields.io/badge/license-MIT-green)  ![Status](https://img.shields.io/badge/status-complete-brightgreen) ![NLP](https://img.shields.io/badge/NLP-analysis-orange)
 
 
 ---
