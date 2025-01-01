@@ -139,5 +139,10 @@ In the highly competitive airline industry, understanding customer sentiment is 
 
 ---
 
+### 📜 License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ### 📬 **Contact Information**
 For questions or suggestions, please contact adnan.bava123@gmail.com.
